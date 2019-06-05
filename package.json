@@ -1,0 +1,19 @@
+{
+  "name": "map-constrain",
+  "version": "1.0.0",
+  "description": "a value mapping function borrowed from i/o programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remyhunt/map-constrain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remyhunt/map-constrain/issues"
+  },
+  "homepage": "https://github.com/remyhunt/map-constrain#readme"
+}
